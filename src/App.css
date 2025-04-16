@@ -33,14 +33,14 @@ body {
 
 h2 {
   width: 9.323vw;
-  height: 1.25vw;
+  height: auto;
   font-size: 1vw;
   color: #86868B;
 }
 
 h1 {
   width: 17.656vw;
-  height: 5.313vw;
+  height: auto;
   font-size: 2vw;
   margin: 0;
   color: #ffffff;
@@ -48,14 +48,14 @@ h1 {
 
 p {
   width: 18.438vw;
-  height: 13.7vw;
+  height: auto;
   font-size: 1.1vw;
   font-weight: 700;
 }
 
 .image img{
   width: 20.573vw;
-  height: 29.479vw;
+  height: auto;
 }
 
 .image {
