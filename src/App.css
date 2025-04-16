@@ -67,3 +67,50 @@ p {
 .highlight {
   color: #ffffff;
 }
+
+.background2.mb {
+  height: 159.290vw;
+  width: 81.25vw;
+}
+
+.background2.mb .text {
+  margin: 10vw;
+}
+
+.background2.mb .text p{
+  width: 63.208vw;
+  font-size: 2.5vw;
+}
+
+.background2.mb .text h1{
+  width: 44.208vw;
+  font-size: 4.4vw;
+}
+
+.background2.mb .text h2{
+  width: 34.208vw;
+  font-size: 2.4vw;
+}
+
+.background2.mb img {
+  width: 49.625vw;
+  height: auto; 
+  position: absolute;
+  top: 13.7vw;  
+  left: 20vw;
+}
+
+.mb {
+  display: none;
+} 
+
+@media screen and (max-width: 720px) {
+  .pc {
+    display: none;
+  }
+
+  .mb {
+    display: block;
+  }
+
+}
